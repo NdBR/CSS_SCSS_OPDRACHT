@@ -1,0 +1,12 @@
+$background_dark: #97d279; 
+$background_light:#c0eea9;
+$black_shadow:rgba(0, 0, 0, 0.75);
+$padding_20:20px;
+
+@mixin textmarkup{
+
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4em;
+  
+  
+}
